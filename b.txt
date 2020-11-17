@@ -2,4 +2,7 @@ first file
 
 modification done
 
+
+merge with conflict
+
 learning branching
